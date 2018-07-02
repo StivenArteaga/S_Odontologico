@@ -1,0 +1,112 @@
+<a href="https://es.icons8.com/icon/21103/Ajustes">Ajustes créditos de icono</a>
+
+
+
+<a href="https://es.icons8.com/icon/35140/Apagar">Apagar créditos de icono</a>
+
+<a href="https://es.icons8.com/icon/23446/Añadir-usuario-masculino">Añadir usuario masculino créditos de icono</a>
+
+<a href="https://es.icons8.com/icon/21085/Información">Información créditos de icono</a>
+
+
+<a href="https://es.icons8.com/icon/41024/Historial-de-pagos">Historial de pagos créditos de icono</a>
+
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+SQL SERVER 
+
+
+create trigger trigger_ExamenHistoriaClinica on historiaclinicas
+for insert as
+declare @numeroHis varchar(15);
+
+set @numeroHis = (select top 1 idhistoriaclinica from HISTORIACLINICAS order by idHistoriaClinica desc);
+ insert into EXAMENES
+(
+	idHistoriaClinica,
+    fecha
+) 
+values 
+(
+	@numeroHis,
+    getDate()
+);
+
+--drop trigger trigger_ExamenHistoriaClinica
+
+alter table historiaclinicas add constraint uni_HistoriaClinica_NumeroHistoriaClinica unique(numeroHistoriaClinica)
+
+
+select * from PACIENTES
+select * from HISTORIACLINICAS
+select * from EXAMENES
+select * from EXAMENESTOMATOLOGICOS
+select * from ESTOMATOLOGICOS
+select * from DENTAL
+
+delete from PACIENTES where documento = 1152
+delete from HISTORIACLINICAS where numeroHistoriaClinica = 1152
+delete from EXAMENES where idHistoriaClinica = 5
+
+--insert into HISTORIACLINICAS (numeroHistoriaClinica, fecha, estado) values ('11', '2017-10-08', 1)
+
+
+alter table examenestomatologicos ADD fecha datetime not null
+
+create proc consultarTipoExamenDental
+as begin 
+	select idDental, nombre, estado from DENTAL where estado = 1;
+end
+
+
+create proc modificarTipoExamenDental(
+	@idDental int,
+	@nombre varchar(25),
+    @estado tinyint
+)
+as begin 
+ update DENTAL set 
+	nombre = @nombre,    
+	estado = @estado
+	where idDental = @idDental
+ end
+
+ select * from EXAMENDENTAL
+ drop table ESTADODENTAL
+ alter table examendental drop constraint fk_examenDental_idRespuesta
+
+ alter table EXAMENDENTAL drop column idRespuesta
+ alter table EXAMENDENTAL add idRespuesta int not null
+ alter table EXAMENDENTAL add constraint fk_ExamenDental_idRespuesta foreign key(idRespuesta) references RESPUESTAHISTORIACLINICA (idRespuesta)
+
+ select * from EXAMENESTOMATOLOGICOS
+ select * from EXAMENDENTAL
+ select * from EXAMENES
+ select * from HISTORIACLINICAS
+ select * from RESPUESTAHISTORIACLINICA
+ select * from DENTAL
+
+
+ --Consulta para ver el examen dental del paciente
+ select d.idExamenDental, dental.nombre, EXA.idHistoriaClinica, res.respuesta  from EXAMENDENTAL d join dental dental on (d.idDental = dental.idDental)
+ join EXAMENES exa on (exa.idExamen = d.idExamen) join RESPUESTAHISTORIACLINICA res on (res.idRespuesta = d.idRespuesta)
+
+
+  select pa.documento, pa.nombres, d.idExamenDental, dental.nombre, EXA.idHistoriaClinica, res.respuesta from EXAMENDENTAL d join dental dental on (d.idDental = dental.idDental)
+ join EXAMENES exa on (exa.idExamen = d.idExamen) join RESPUESTAHISTORIACLINICA res on (res.idRespuesta = d.idRespuesta) join HISTORIACLINICAS h on
+ (exa.idHistoriaClinica = h.idHistoriaClinica) join  PACIENTES pa on (pa.idPaciente = h.numeroHistoriaClinica)
+
+  select pa.documento, pa.nombres, d.idExamenDental, dental.nombre, EXA.idHistoriaClinica, res.respuesta from EXAMENDENTAL d join dental dental on (d.idDental = dental.idDental)
+ join EXAMENES exa on (exa.idExamen = d.idExamen) join RESPUESTAHISTORIACLINICA res on (res.idRespuesta = d.idRespuesta) join HISTORIACLINICAS h on
+ (exa.idHistoriaClinica = h.idHistoriaClinica) join  PACIENTES pa on (pa.idPaciente = h.numeroHistoriaClinica) where pa.documento = 1152
+
+ --Examenes dentales de un paciente
+   select pa.documento, pa.nombres, d.idExamenDental, dental.nombre, EXA.idHistoriaClinica, res.respuesta from EXAMENDENTAL d join dental dental on (d.idDental = dental.idDental)
+ join EXAMENES exa on (exa.idExamen = d.idExamen) join RESPUESTAHISTORIACLINICA res on (res.idRespuesta = d.idRespuesta) join HISTORIACLINICAS h on
+ (exa.idHistoriaClinica = h.idHistoriaClinica) join  PACIENTES pa on (pa.documento = h.numeroHistoriaClinica) where d.idExamen = 21
+
+
+ 
+ select es.nombre, exEs.idHistoriaClinica, res.respuesta from ESTOMATOLOGICOS es join EXAMENESTOMATOLOGICOS exEs on (es.idEstomatologico = exEs.idEstomatologico)
+ join EXAMENES ex on (ex.idExamen = exEs.idHistoriaClinica) join RESPUESTAHISTORIACLINICA res on (res.idRespuesta = exEs.idRespuesta)
+ join HISTORIACLINICAS h on (h.idHistoriaClinica = exEs.idHistoriaClinica)

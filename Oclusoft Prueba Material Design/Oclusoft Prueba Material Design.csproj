@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C75691C4-9B5E-4E66-A7B4-80EAD09D8A85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Oclusoft_Prueba_Material_Design</RootNamespace>
+    <AssemblyName>Oclusoft Prueba Material Design</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.5.6403.13419, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArchivoMedia.cs" />
+    <Compile Include="Aseguradora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aseguradora.Designer.cs">
+      <DependentUpon>Aseguradora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargando.Designer.cs">
+      <DependentUpon>Cargando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciudad.Designer.cs">
+      <DependentUpon>Ciudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion.Designer.cs">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultorio.Designer.cs">
+      <DependentUpon>Consultorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Convencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Convencion.Designer.cs">
+      <DependentUpon>Convencion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetReporte.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReporte.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Departamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departamento.Designer.cs">
+      <DependentUpon>Departamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadoCivil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadoCivil.Designer.cs">
+      <DependentUpon>EstadoCivil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Genero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genero.Designer.cs">
+      <DependentUpon>Genero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrupoSanguineo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrupoSanguineo.Designer.cs">
+      <DependentUpon>GrupoSanguineo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoriaClinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoriaClinica.Designer.cs">
+      <DependentUpon>HistoriaClinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaPlayer.Designer.cs">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mensaje.Designer.cs">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuConfiguracion.Designer.cs">
+      <DependentUpon>MenuConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ocupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ocupacion.Designer.cs">
+      <DependentUpon>Ocupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odontograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odontograma.Designer.cs">
+      <DependentUpon>Odontograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odontologo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odontologo.Designer.cs">
+      <DependentUpon>Odontologo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paciente.Designer.cs">
+      <DependentUpon>Paciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaginaPrincipal.Designer.cs">
+      <DependentUpon>PaginaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pais.Designer.cs">
+      <DependentUpon>Pais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parentesco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parentesco.Designer.cs">
+      <DependentUpon>Parentesco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramacionCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgramacionCitas.Designer.cs">
+      <DependentUpon>ProgramacionCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecuperarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecuperarContraseña.Designer.cs">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarCitas.Designer.cs">
+      <DependentUpon>RegistrarCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroUsuario.Designer.cs">
+      <DependentUpon>RegistroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte.Designer.cs">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoConvencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoConvencion.Designer.cs">
+      <DependentUpon>TipoConvencion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoDocumento.Designer.cs">
+      <DependentUpon>TipoDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoSeguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoSeguro.Designer.cs">
+      <DependentUpon>TipoSeguro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="validacion.cs" />
+    <Compile Include="ValidacionRegistroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidacionRegistroUsuario.Designer.cs">
+      <DependentUpon>ValidacionRegistroUsuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aseguradora.resx">
+      <DependentUpon>Aseguradora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargando.resx">
+      <DependentUpon>Cargando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciudad.resx">
+      <DependentUpon>Ciudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion.resx">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultorio.resx">
+      <DependentUpon>Consultorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Convencion.resx">
+      <DependentUpon>Convencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departamento.resx">
+      <DependentUpon>Departamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadoCivil.resx">
+      <DependentUpon>EstadoCivil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Genero.resx">
+      <DependentUpon>Genero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrupoSanguineo.resx">
+      <DependentUpon>GrupoSanguineo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoriaClinica.resx">
+      <DependentUpon>HistoriaClinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mensaje.resx">
+      <DependentUpon>Mensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuConfiguracion.resx">
+      <DependentUpon>MenuConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ocupacion.resx">
+      <DependentUpon>Ocupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odontograma.resx">
+      <DependentUpon>Odontograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odontologo.resx">
+      <DependentUpon>Odontologo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paciente.resx">
+      <DependentUpon>Paciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaginaPrincipal.resx">
+      <DependentUpon>PaginaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pais.resx">
+      <DependentUpon>Pais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parentesco.resx">
+      <DependentUpon>Parentesco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramacionCitas.resx">
+      <DependentUpon>ProgramacionCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RecuperarContraseña.resx">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarCitas.resx">
+      <DependentUpon>RegistrarCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroUsuario.resx">
+      <DependentUpon>RegistroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Reporte.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoConvencion.resx">
+      <DependentUpon>TipoConvencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoDocumento.resx">
+      <DependentUpon>TipoDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoSeguro.resx">
+      <DependentUpon>TipoSeguro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidacionRegistroUsuario.resx">
+      <DependentUpon>ValidacionRegistroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetReporte.xsc">
+      <DependentUpon>DataSetReporte.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetReporte.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReporte.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetReporte.xss">
+      <DependentUpon>DataSetReporte.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CAD\CAD.csproj">
+      <Project>{0f27f611-77cd-4629-9e55-be94b452e4a9}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{7f4e250c-d3c0-4e03-851d-ce5126480e1e}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{012ac130-09e2-4e8a-88a2-7f2b06946518}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objeto\Objeto.csproj">
+      <Project>{5f2af5f5-535a-4e62-9ddc-4cac42966e74}</Project>
+      <Name>Objeto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

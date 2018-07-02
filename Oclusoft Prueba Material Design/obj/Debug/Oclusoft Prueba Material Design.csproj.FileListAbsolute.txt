@@ -1,0 +1,243 @@
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Interop.WMPLib.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.ResolveComReference.cache
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Aseguradora.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Cargando.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ciudad.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Configuracion.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Consultorio.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Departamento.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.EstadoCivil.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Genero.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.GrupoSanguineo.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.HistoriaClinica.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MDIParent1.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MediaPlayer.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MenuConfiguracion.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ocupacion.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontologo.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Paciente.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.PaginaPrincipal.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Pais.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Parentesco.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Properties.Resources.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoDocumento.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoSeguro.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.GenerateResource.Cache
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe.config
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MaterialSkin.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MetroFramework.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Interop.WMPLib.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ProgramacionCitas.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistrarCitas.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontograma.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Login.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RecuperarContraseña.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistroUsuario.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ValidacionRegistroUsuario.resources
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.dll
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.pdb
+C:\Users\luisf\Documents\Visual Studio 2015\Projects\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Convencion.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe.config
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Interop.WMPLib.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.ResolveComReference.cache
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Aseguradora.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Cargando.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ciudad.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Configuracion.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Consultorio.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Convencion.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Departamento.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.EstadoCivil.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Genero.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.GrupoSanguineo.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.HistoriaClinica.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Login.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MDIParent1.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MediaPlayer.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MenuConfiguracion.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ocupacion.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontograma.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontologo.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Paciente.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.PaginaPrincipal.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Pais.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Parentesco.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ProgramacionCitas.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Properties.Resources.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RecuperarContraseña.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistrarCitas.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistroUsuario.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoDocumento.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoSeguro.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ValidacionRegistroUsuario.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.GenerateResource.Cache
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MaterialSkin.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.pdb
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Interop.WMPLib.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Mensaje.resources
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.dll
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.xml
+C:\Users\WINDOWS TEN\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.xml
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe.config
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Interop.WMPLib.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.ResolveComReference.cache
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MaterialSkin.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.pdb
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.xml
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.xml
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Interop.WMPLib.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csprojResolveAssemblyReference.cache
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Aseguradora.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Cargando.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ciudad.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Configuracion.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Consultorio.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Convencion.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Departamento.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.EstadoCivil.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.GrupoSanguineo.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.HistoriaClinica.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MDIParent1.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MediaPlayer.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Mensaje.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MenuConfiguracion.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ocupacion.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontograma.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontologo.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Paciente.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.PaginaPrincipal.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Pais.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Parentesco.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ProgramacionCitas.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Properties.Resources.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RecuperarContraseña.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistrarCitas.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistroUsuario.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoDocumento.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoSeguro.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ValidacionRegistroUsuario.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.GenerateResource.Cache
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Reportes.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.AcercaDe.resources
+C:\Users\luisf\OneDrive\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Generos.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe.config
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\MaterialSkin.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CAD.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Logica.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Modelo.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Objeto.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\CircularProgressBar.xml
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\WinFormAnimation.xml
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Interop.WMPLib.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Interop.WMPLib.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.ResolveComReference.cache
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.AcercaDe.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Aseguradora.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Cargando.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ciudad.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Configuracion.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Consultorio.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Convencion.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Departamento.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.EstadoCivil.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Generos.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.GrupoSanguineo.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.HistoriaClinica.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MDIParent1.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MediaPlayer.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Mensaje.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.MenuConfiguracion.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Ocupacion.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontograma.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Odontologo.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Paciente.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.PaginaPrincipal.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Pais.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Parentesco.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ProgramacionCitas.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Properties.Resources.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RecuperarContraseña.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistrarCitas.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.RegistroUsuario.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoConvencion.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoDocumento.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.TipoSeguro.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.ValidacionRegistroUsuario.resources
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.csproj.GenerateResource.Cache
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.exe
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft Prueba Material Design.pdb
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\RdlCompile.cache
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\RdlCompile.compiled
+C:\Users\luisf\Desktop\Proyecto Oclusoft\Oclusoft Prueba Material Design\Oclusoft Prueba Material Design\obj\Debug\Oclusoft_Prueba_Material_Design.Reporte.resources
